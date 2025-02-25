@@ -1,3 +1,8 @@
+# 运行环境
+python:3.10.x必要
+20250225 更新说明：项目运行成功，mysql,redis,mongodb全部配置完成
+
+
 # FastAPI 项目
 
 fastapi Github：https://github.com/tiangolo/fastapi
